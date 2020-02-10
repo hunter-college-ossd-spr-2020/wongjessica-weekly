@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
+|  2   | [https://www.openstreetmap.org/changeset/80766469](https://www.openstreetmap.org/changeset/80766469)    | OpenStreetMap Edit   | I added the Hawaiian-themed restaurant named "PokéBowl Station + Mars Tea" at the address 2037 86th Street, Brooklyn, NY 11214. I also added the hours of the restaurant, the phone number, the website, and the information that it has Internet Access. |
 |     |     |     |      |
 |     |     |     |      |
