@@ -24,5 +24,5 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | [https://www.openstreetmap.org/changeset/80766469](https://www.openstreetmap.org/changeset/80766469)    | OpenStreetMap Edit   | I added the Hawaiian-themed restaurant named "PokéBowl Station + Mars Tea" at the address 2037 86th Street, Brooklyn, NY 11214. I also added the hours of the restaurant, the phone number, the website, and other miscellaneous information. |
-|     |     |     |      |
-|     |     |     |      |
+|  3   | [https://www.openstreetmap.org/changeset/81139681](https://www.openstreetmap.org/changeset/81139681)   | OpenStreetMap Edit | Added Tak Hing, a Chinese restaurant, in Brooklyn, and their phone number + hours. |
+|  3   |     |     |      |
