@@ -21,7 +21,7 @@ following the same syntax.
 
 
 
-| Week #       | Contribution (Link)  | Type  | Description |
+| Week # | Contribution (Link) | Type | Description |
 |---|:---|:---|:---|
 | 2 | [Added Hawaiian Restaurant](https://www.openstreetmap.org/changeset/80766469) | OpenStreetMap | Added "PokéBowl Station + Mars Tea", a Hawaiian-themed restaurant in Brooklyn, NY. Also added the hours of the restaurant, the phone number, the website, and other miscellaneous information. |
 | 3 | [Added Chinese Restaurant](https://www.openstreetmap.org/changeset/81139681) | OpenStreetMap | Added "Tak Hing", a Chinese restaurant, in Brooklyn, and their phone number, and their hours. |
