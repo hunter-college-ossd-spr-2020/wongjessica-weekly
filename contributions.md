@@ -29,3 +29,4 @@ following the same syntax.
 | 3 | [Added Asian Restaurant](https://www.openstreetmap.org/changeset/81143564) | OpenStreetMap | Added "Kushi", an Asian Fusion restaurant in Brooklyn. Included hours of operation, telephone number, and website. |
 | 3 | [Added Hong Kong Restaurant](https://www.openstreetmap.org/changeset/81143782) | OpenStreetMap | Added "New HK Tea & Sushi", a Hong Kong restaurant in Brooklyn. Included hours of operation and telephone number. |
 | 3 | [Added Dessert Place](https://www.openstreetmap.org/changeset/81143904) | OpenStreetMap | Added "Prince Tea House", a dessert shop in Brooklyn. Included hours of operation and telephone number. |   
+| 4 | [Keisuke Blog Edit](https://github.com/hunter-college-ossd-spr-2020/Ks5810-weekly/pull/2#event-3065604781) | Blog Edit | Fixed grammar in Keisuke's blog
