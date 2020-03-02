@@ -29,3 +29,4 @@ following the same syntax.
 | 3 | [Added Asian Restaurant](https://www.openstreetmap.org/changeset/81143564) | OpenStreetMap | Added "Kushi", an Asian Fusion restaurant in Brooklyn. Included hours of operation, telephone number, and website. |
 | 3 | [Added Hong Kong Restaurant](https://www.openstreetmap.org/changeset/81143782) | OpenStreetMap | Added "New HK Tea & Sushi", a Hong Kong restaurant in Brooklyn. Included hours of operation and telephone number. |
 | 3 | [Added Dessert Place](https://www.openstreetmap.org/changeset/81143904) | OpenStreetMap | Added "Prince Tea House", a dessert shop in Brooklyn. Included hours of operation and telephone number. |   
+| 5 | [Added Coffee Place](https://www.openstreetmap.org/changeset/81665904) | OpenStreetMap | Added "Coffee Rx" to OpenStreetMap in Brooklyn. |
