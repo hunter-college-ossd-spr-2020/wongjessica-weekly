@@ -33,4 +33,4 @@ following the same syntax.
 | 5 | [Added Coffee Place](https://www.openstreetmap.org/changeset/81665904) | OpenStreetMap | Added "Coffee Rx" to OpenStreetMap in Brooklyn. |
 | 6 | [Added Japanese Restaurant](https://www.openstreetmap.org/changeset/81947039) | OpenStreetMap | Added "Hayashi Sushi" a Japanese restaurant in Brooklyn, plus other relevant information about the establishment. |
 | 6 | [Daniel Blog Edit](https://github.com/hunter-college-ossd-spr-2020/dmallia17-weekly/pull/3) | Blog Edit | Submitted a pull request for Daniel's Week 4 blog, fixed minor grammar issues. |
-| 7 | [Blog Edit TBD](https://github.com/wongjessica) | Blog Edit | TBD |
+| 7 | [Boubacar Blog Edit](https://github.com/hunter-college-ossd-spr-2020/boubascript-weekly/pull/2) | Blog Edit | Submitted a pull request for Boubacar's Week 3 blog, fixed minor grammar issue. |
