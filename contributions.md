@@ -34,4 +34,5 @@ following the same syntax.
 | 6 | [Added Japanese Restaurant](https://www.openstreetmap.org/changeset/81947039) | OpenStreetMap | Added "Hayashi Sushi" a Japanese restaurant in Brooklyn, plus other relevant information about the establishment. |
 | 6 | [Daniel Blog Edit](https://github.com/hunter-college-ossd-spr-2020/dmallia17-weekly/pull/3) | Blog Edit | Submitted a pull request for Daniel's Week 4 blog, fixed minor grammar issues. |
 | 7 | [Boubacar Blog Edit](https://github.com/hunter-college-ossd-spr-2020/boubascript-weekly/pull/2) | Blog Edit | Submitted a pull request for Boubacar's Week 3 blog, fixed minor grammar issue. |
-| 8 | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Monster_Hunter:_World&oldid=947220108) | Wikipedia | Fixed multiple grammar errors in the Monster Hunter: World Gameplay section. |
+| 8 | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Monster_Hunter:_World&diff=prev&oldid=947220108) | Wikipedia | Fixed multiple grammar errors in the Monster Hunter: World Gameplay section. |
+| 8 | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Hunter_College&diff=prev&oldid=947221499) | Wikipedia | Updated the acceptance rate of Hunter College, corrected name of Yalow program and fixed minor grammar issue. |
