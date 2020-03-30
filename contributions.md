@@ -36,3 +36,4 @@ following the same syntax.
 | 7 | [Boubacar Blog Edit](https://github.com/hunter-college-ossd-spr-2020/boubascript-weekly/pull/2) | Blog Edit | Submitted a pull request for Boubacar's Week 3 blog, fixed minor grammar issue. |
 | 8 | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Monster_Hunter:_World&diff=prev&oldid=947220108) | Wikipedia | Fixed multiple grammar errors in the Monster Hunter: World Gameplay section. |
 | 8 | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Hunter_College&diff=prev&oldid=947221499) | Wikipedia | Updated the acceptance rate of Hunter College, corrected name of Yalow program and fixed minor grammar issue. |
+| 9 | [Shania Blog Edit](https://github.com/hunter-college-ossd-spr-2020/sdhani-weekly/pull/4) | Blog Edit | Submitted a pull request for Shania's Week 9 blog, fixed two typos. |
