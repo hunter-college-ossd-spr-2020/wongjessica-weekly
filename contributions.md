@@ -42,3 +42,6 @@ following the same syntax.
 | 10 | [Wikipedia Contribution](https://en.wikipedia.org/w/index.php?title=Condensed_milk&diff=prev&oldid=950640794) | Wikipedia | Fixed multiple grammar errors and added some hyperlinks in the [Condensed milk](https://en.wikipedia.org/wiki/Condensed_milk) Wikipedia page.
 | 10 | [Matthew Blog Edit](https://github.com/hunter-college-ossd-spr-2020/matter13311-weekly/pull/2) | Blog Edit | Submitted a pull request for Matthew's Week 10 blog, fixing multiple typos. |
 | 11 | [Denice Blog Edit](https://github.com/hunter-college-ossd-spr-2020/deniceysv-weekly/pull/4) | Blog Edit | Submitted a pull request for Denice's Week 11 blog, fixing multiple spelling mistakes, and one grammar mistake. |
+| 12 | [OpenCV](https://github.com/opencv/opencv/pull/17218) | Broken Link Fix | Submitted a pull request for OpenCV, fixing a couple of links. |
+| 13 | [OpenCV](https://github.com/opencv/opencv/issues/17220) | Fix Instruction | Submitted an issue for OpenCV, informing them of wrong command-line instructions and how to fix them. |
+| 13 | [OpenCV](https://github.com/opencv/opencv/pull/17219) | Broken Link Fix | Submitted a pull request for OpenCV, fixing a broken link. |
